@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Javan gold-spotted mongoose","category":"Red"},
+{"id":2,"name":"Red-capped cardinal","category":"Orange"},
+{"id":3,"name":"Zorro, common","category":"Crimson"},
+{"id":4,"name":"Rat, arboral spiny","category":"Khaki"},
+{"id":5,"name":"Black-crowned night heron","category":"Indigo"},
+{"id":6,"name":"Squirrel, malabar","category":"Green"},
+{"id":7,"name":"African darter","category":"Green"},
+{"id":8,"name":"Clark's nutcracker","category":"Yellow"},
+{"id":9,"name":"European red squirrel","category":"Goldenrod"},
+{"id":10,"name":"Gecko, tokay","category":"Crimson"},
+{"id":11,"name":"Black-tailed prairie dog","category":"Orange"},
+{"id":12,"name":"Bennett's wallaby","category":"Maroon"},
+{"id":13,"name":"Bustard, stanley","category":"Maroon"},
+{"id":14,"name":"Ring-tailed coatimundi","category":"Blue"},
+{"id":15,"name":"House sparrow","category":"Fuscia"},
+{"id":16,"name":"Seal, harbor","category":"Purple"},
+{"id":17,"name":"Seal, northern elephant","category":"Blue"},
+{"id":18,"name":"Ringtail cat","category":"Orange"},
+{"id":19,"name":"Bandicoot, short-nosed","category":"Goldenrod"},
+{"id":20,"name":"Otter, oriental short-clawed","category":"Pink"}
+]
+}
